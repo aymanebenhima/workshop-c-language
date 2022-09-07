@@ -1,0 +1,5 @@
+*.exe
+week_01
+*.md
+*.txt
+
