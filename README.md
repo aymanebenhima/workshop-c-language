@@ -9,12 +9,12 @@ Chaque semaine, vous aurez un défi sur Langage C, vous devez faire de la docume
 
 ## Plan
 
-| Day | Chapter |
+| Week | Chapter |
 |:---:|:---:|
 | [01](./week_01/01.md) | Introduction, Data Types, Variables |
-| [02](./week_01/02.md) | Les conditions |
-| [03](./week_02/03.md) | Boucles - loops |
-| [04](./week_02/04.md) | Fonctions |
-| [05](./week_03/sas.md) | Project SAS |
+| [01](./week_01/02.md) | Les conditions |
+| [02](./week_02/03.md) | Boucles - loops |
+| [02](./week_02/04.md) | Fonctions |
+| [03](./week_03/sas.md) | Project SAS |
 
 Best of luck ! 🚀
