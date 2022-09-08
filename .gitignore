@@ -1,4 +1,5 @@
 *.exe
-week_01
+/week_01
+/.vscode
 *.md
 *.txt
