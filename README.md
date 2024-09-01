@@ -17,10 +17,10 @@ Voici un plan détaillé des sujets que vous allez couvrir chaque jour, avec des
 
 | Jour   | Objectifs                             | Lien |
 |--------|---------------------------------------|------|
-| **Day 01** | Les bases de C : Variables, Opérateurs, Conditions et Boucles | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18699-les-bases-du-langage-c) |
-| **Day 02** | Fonctions et Tableaux             | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18701-les-tableaux) |
-| **Day 03** | Chaînes de caractères (Strings) et Structures (Structs) | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18703-les-structures) |
-| **Day 04** | Tri (Sort) et Recherche (Search)  | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18705-algorithmes-de-tri) |
+| **Day 01** | Les bases de C : Variables, Opérateurs, Conditions et Boucles | [Variables](./Day01/01-Variables.md),  [Conditions partie 1](./Day01/02-ConditionsL1.md), [Conditions partie 2](./Day01/03-ConditionsL2.md) et [Les boucles](./Day01/04-BoublesL1.md) |
+| **Day 02** | Fonctions et Tableaux             | [Tableaux](./Day02/05-Tableaux.md),  [Boucles](./Day02/06-BouclesL2.md), [Fonctions](./Day02/07-Fonctions.md) et [Mini Projet](./Day02/mini-projet.md) |
+| **Day 03** | Chaînes de caractères (Strings) et Structures (Structs) |  [Strings](./Day03/08-Strings.md), [Les Structures](./Day03/09-Struct.md) et [Mini Projet](./Day03/mini-projet.md) |
+| **Day 04** | Tri (Sort) et Recherche (Search)  | [Les Agorithmes de tri et de recherche](./Day04/10-Algos.md) |
 
 ## Ressources Recommandées
 
