@@ -1,4 +1,4 @@
-Voici une version révisée du README pour votre répertoire "Workshop C Language", avec des ressources importantes et un tableau des objectifs par jour ajouté :
+Voici le README mis à jour avec des liens pour chaque jour et l'ajout de la ressource OpenClassrooms :
 
 ---
 
@@ -13,14 +13,14 @@ Dans ce défi, vous allez apprendre C, le langage de programmation le plus popul
 
 ### Objectifs du Workshop
 
-Voici un plan détaillé des sujets que vous allez couvrir chaque jour :
+Voici un plan détaillé des sujets que vous allez couvrir chaque jour, avec des liens vers les ressources correspondantes :
 
-| Jour   | Objectifs                             |
-|--------|---------------------------------------|
-| **Day 01** | Les bases de C : Variables, Opérateurs, Conditions et Boucles |
-| **Day 02** | Fonctions et Tableaux             |
-| **Day 03** | Chaînes de caractères (Strings) et Structures (Structs) |
-| **Day 04** | Tri (Sort) et Recherche (Search)  |
+| Jour   | Objectifs                             | Lien |
+|--------|---------------------------------------|------|
+| **Day 01** | Les bases de C : Variables, Opérateurs, Conditions et Boucles | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18699-les-bases-du-langage-c) |
+| **Day 02** | Fonctions et Tableaux             | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18701-les-tableaux) |
+| **Day 03** | Chaînes de caractères (Strings) et Structures (Structs) | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18703-les-structures) |
+| **Day 04** | Tri (Sort) et Recherche (Search)  | [Voir le contenu](https://www.openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18705-algorithmes-de-tri) |
 
 ## Ressources Recommandées
 
@@ -30,8 +30,13 @@ Pour vous aider dans votre apprentissage, voici quelques ressources essentielles
 - **Tutoriel :** [Learn-C.org](https://www.learn-c.org/) - Un tutoriel interactif pour pratiquer directement en ligne.
 - **Documentation :** [cppreference.com (section C)](https://en.cppreference.com/w/c) - Une référence complète pour le langage C.
 - **Compilateur en ligne :** [Programiz C Compiler](https://www.programiz.com/c-programming/online-compiler/) - Un compilateur en ligne pour tester vos codes rapidement.
+- **Cours en ligne :** [Apprenez à programmer en C - OpenClassrooms](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c) - Un cours en français pour bien débuter avec le langage C.
 - **Forum :** [Stack Overflow (C tag)](https://stackoverflow.com/questions/tagged/c) - Un excellent endroit pour poser des questions et trouver des réponses.
 
 ---
 
 **Best of luck!** 🚀
+
+---
+
+Ce README est maintenant enrichi de liens directs pour chaque journée de l'atelier, ainsi que d'une ressource supplémentaire de qualité sur OpenClassrooms. Bonne continuation avec votre workshop C Language !
