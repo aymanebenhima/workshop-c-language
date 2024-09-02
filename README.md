@@ -1,7 +1,3 @@
-Voici le README mis à jour avec des liens pour chaque jour et l'ajout de la ressource OpenClassrooms :
-
----
-
 # Workshop C Language
 
 Bienvenue dans le workshop sur le langage C !  
@@ -36,7 +32,3 @@ Pour vous aider dans votre apprentissage, voici quelques ressources essentielles
 ---
 
 **Best of luck!** 🚀
-
----
-
-Ce README est maintenant enrichi de liens directs pour chaque journée de l'atelier, ainsi que d'une ressource supplémentaire de qualité sur OpenClassrooms. Bonne continuation avec votre workshop C Language !
