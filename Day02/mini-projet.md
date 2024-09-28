@@ -22,18 +22,28 @@ Le projet consiste à créer un programme en C qui permet de gérer le stock de 
 ### 2. Afficher Tous les Livres Disponibles
 - Le programme parcourt les tableaux et affiche les détails de chaque livre (titre, auteur, prix, quantité).
 
-### 3. Mettre à Jour la Quantité d'un Livre
+### 3. Rechercher un Livre par son Titre
+
+- Le programme permet de rechercher un livre en spécifiant son titre.
+- Si le livre est trouvé, ses détails (titre, auteur, prix, quantité) sont affichés.
+- Si le livre n'est pas trouvé, un message indiquant que le livre n'existe pas est affiché.
+
+### 4. Mettre à Jour la Quantité d'un Livre
+
 - Le programme permet de modifier la quantité en stock pour un livre donné.
 - L'utilisateur spécifie le titre du livre et la nouvelle quantité.
 
-### 4. Supprimer un Livre du Stock
+### 5. Supprimer un Livre du Stock
+
 - Le programme permet de supprimer un livre du stock en fonction de son titre.
 - Après la suppression, le livre n'apparaît plus dans la liste des livres disponibles.
 
-### 5. Afficher le Nombre Total de Livres en Stock
+### 6. Afficher le Nombre Total de Livres en Stock
+
 - Le programme calcule et affiche le nombre total de livres en stock, en additionnant les quantités de tous les livres.
 
 ## Fonctionnalités Requises
+
 - **Variables** : Pour stocker les informations des livres (titre, auteur, prix, quantité).
 - **Conditions** : Pour rechercher un livre, mettre à jour la quantité, et supprimer un livre.
 - **Boucles** : Pour parcourir les livres et afficher leurs détails.
